@@ -1,0 +1,17 @@
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\bin\Debug\kullanıcı_girişi.exe.config
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\bin\Debug\kullanıcı_girişi.exe
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\bin\Debug\kullanıcı_girişi.pdb
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.Form1.resources
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.Dashboard.resources
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.KitapEkle.resources
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.KitaplarıGörüntüle.resources
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.Properties.Resources.resources
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.exe
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.pdb
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.AddStudent.resources
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.ÖğrencileriGörüntüle.resources
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.AlınanKitaplar.resources
+C:\Users\avcia\source\repos\kullanıcı_girişi\kullanıcı_girişi\obj\Debug\kullanıcı_girişi.GetirilenKitaplar.resources
